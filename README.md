@@ -1,6 +1,6 @@
 Modern Calculator
 
-Experience a modern, smooth, and intuitive calculator for Windows, redesigned to offer a familiar feel, a lightweight interface, and optimized performance!
+Experience a modern, smooth, and intuitive calculator app for Windows, redesigned to offer a familiar feel, a clean interface, and optimized performance!
 
 Version: 1.0.0.2
 Platform: Windows
@@ -16,7 +16,7 @@ Modern Calculator is built entirely using Windows Presentation Foundation (WPF).
 
 - Native Windows Interface: Standardized design that integrates seamlessly with the Windows operating system.
 
-- Optimized Performance: Smooth operation and rapid startup thanks to an optimized executable file.
+- Optimized Performance: Smooth operation and fast startup thanks to an optimized executable file.
 
 - Multi-mode Support: Easily switch between basic and advanced calculation modes.
 
@@ -34,4 +34,4 @@ Modern Calculator is built entirely using Windows Presentation Foundation (WPF).
 
 4. Conclusion:
 
-- This is a non-commercial, community-developed project; It is not closed-source proprietary software; it is based on the CC BY-NC-ND 4.0 license! Although the source code is not public, we always welcome feedback, bug reports, and suggestions for new features!
+- This is a non-commercial, community-developed project; it is free software licensed under CC BY-NC-ND 4.0! Although the source code is not public, we always welcome feedback, bug reports, and suggestions for new features!
