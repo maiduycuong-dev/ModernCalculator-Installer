@@ -2,7 +2,7 @@ Modern Calculator
 
 Overview: Experience a modern, smooth, and intuitive calculator app for Windows, redesigned to offer a familiar feel, a clean interface, and optimized performance!
 
-- Version: 1.0.0.3
+- Version: 1.0.0.4
 
 - Platform: Windows
 
@@ -34,7 +34,7 @@ Modern Calculator is built entirely using Windows Presentation Foundation. This 
 
 + Download the `Installer.zip` file to get the latest version!
 
-+ Extract the files and run `setup.exe` to install the application on your computer.
++ Extract the files and run `ModernCalculator.application` to install the application on your computer.
 
 4. Conclusion:
 
