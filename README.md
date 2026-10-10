@@ -1,16 +1,20 @@
 Modern Calculator
 
-Experience a modern, smooth, and intuitive calculator app for Windows, redesigned to offer a familiar feel, a clean interface, and optimized performance!
+Overview: Experience a modern, smooth, and intuitive calculator app for Windows, redesigned to offer a familiar feel, a clean interface, and optimized performance!
 
-Version: 1.0.0.2
-Platform: Windows
-Framework: .NET 10.0
-Programming Languages: C#, XAML
-External Library: WPF-UI
+- Version: 1.0.0.2
+
+- Platform: Windows
+
+- Framework: .NET 10.0
+
+- Programming Languages: C#, XAML
+
+- Third-party Library: WPF-UI
 
 1. Introduction:
 
-Modern Calculator is built entirely using Windows Presentation Foundation (WPF). This version (1.X) features a cutting-edge interface inspired by modern Windows design language, making daily calculations faster and more enjoyable.
+Modern Calculator is built entirely using Windows Presentation Foundation. This version features a cutting-edge interface inspired by modern Windows design language, making daily calculations faster and more enjoyable.
 
 2. Key Features:
 
@@ -34,4 +38,4 @@ Modern Calculator is built entirely using Windows Presentation Foundation (WPF).
 
 4. Conclusion:
 
-- This is a non-commercial, community-developed project; it is free software licensed under CC BY-NC-ND 4.0! Although the source code is not public, we always welcome feedback, bug reports, and suggestions for new features!
+- This is a non-commercial, community-developed project; the application is completely free and licensed under CC BY-NC-ND 4.0! This license applies to the entire project—excluding third-party libraries—not just this specific component. Although the source code is not publicly available, we always welcome feedback, bug reports, and feature suggestions.
