@@ -2,7 +2,7 @@ Modern Calculator
 
 Overview: Experience a modern, smooth, and intuitive calculator app for Windows, redesigned to offer a familiar feel, a clean interface, and optimized performance!
 
-- Version: 1.0.0.2
+- Version: 1.0.0.3
 
 - Platform: Windows
 
