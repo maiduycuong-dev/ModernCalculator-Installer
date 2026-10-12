@@ -1,41 +1,19 @@
 Modern Calculator
 
-Overview: Experience a modern, smooth, and intuitive calculator app for Windows, redesigned to offer a familiar feel, a clean interface, and optimized performance!
+Downloads:
 
-- Version: 1.0.0.5
+- Package.zip: Includes a stable version designed for long-term use and support.
 
-- Platform: Windows
+- Download.zip: Includes a short-term version for quick access to the latest features.
 
-- Framework: .NET 10.0
+Overview:
 
-- Programming Languages: C#, XAML
+- Designs: Automatically adjusts transparency based on your wallpaper. There is also an opaque mode if you prefer not to use the transparency effect.
 
-- Third-party Library: WPF-UI
+- Database: Uses SQLite in the background, ensuring your previous cache is preserved.
 
-1. Introduction:
+- Multilingual: Neat button layout with good tactile feedback, and options for switching the system language.
 
-Modern Calculator is built entirely using Windows Presentation Foundation. This version features a cutting-edge interface inspired by modern Windows design language, making daily calculations faster and more enjoyable.
+License:
 
-2. Key Features:
-
-- Native Windows Interface: Standardized design that integrates seamlessly with the Windows operating system.
-
-- Optimized Performance: Smooth operation and fast startup thanks to an optimized executable file.
-
-- Multi-mode Support: Easily switch between basic and advanced calculation modes.
-
-- User-friendly Experience: Suitable for all types of users, from students to office professionals.
-
-3. Download & Installation:
-
-- You can download the latest installation package directly from the "Code" section of this repository by following these steps:
-
-+ Navigate to the "Code" section on the right-hand side.
-
-+ Download the 'Package.zip` file to get the latest version!
-
-+ Extract the files and run `ModernCalculator.application` to install the application on your computer.
-
-4. Conclusion:
-
-- This is a non-commercial, community-developed project; the application is completely free and licensed under CC BY-NC-ND 4.0! This license applies to the entire project—excluding third-party libraries—not just this specific component. Although the source code is not publicly available, we always welcome feedback, bug reports, and feature suggestions.
+- Released under the CC BY-NC-ND 4.0 license, which prohibits commercial use and unauthorized modifications. For more information, please visit: http://creativecommons.org/licenses/by-nc-nd/4.0/
